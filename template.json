@@ -1,0 +1,7 @@
+{
+  "name": "Wails SvelteKit DaisyUI Template",
+  "shortname": "wails-sveltekit-daiyui-template",
+  "author": "rgzr",
+  "description": "SvelteKit template with DaisyUI and TS",
+  "helpurl": "https://github.com/rgzr/wails-sveltekit-daisyui-template"
+}
